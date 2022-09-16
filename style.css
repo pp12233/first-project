@@ -1,3 +1,14 @@
 .page{
+    background-color: aqua;
     border: 15px double red;
+}
+.header{
+    background-color: blueviolet;
+    border: 35px double black;
+    margin: 0;
+}
+.footer{
+    background-color: bisque;
+    border: 10px double blue;
+    margin: 20px;
 }
